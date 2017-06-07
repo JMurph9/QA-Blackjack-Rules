@@ -1,3 +1,12 @@
 Rules go here
 
 #samechair
+
+Power Cards:
+A: Change suit
+K: Reverse order
+Q: Cover with same suit
+Black J: Pick up 5
+Red J: Cancel pick up
+8: Skip a go
+2: Pick up 2
