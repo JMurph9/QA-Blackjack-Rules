@@ -10,3 +10,5 @@ Black J: Pick up 5
 Red J: Cancel pick up
 8: Skip a go
 2: Pick up 2
+
+And as always, two for mistake.
